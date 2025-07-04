@@ -78,7 +78,7 @@
 ### 効果音
 
 - OtoLogic「ニュース テロップ」  
-  [ニューステロップ](https://otologic.jp/free/se/news-accent01.html
+  [ニューステロップ](https://otologic.jp/free/se/news-accent01.html)
 
 ---
 
