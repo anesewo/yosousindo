@@ -30,6 +30,18 @@
 ## 利用方法
 
 ウェブ公開されているため、[こちら](https://anesewo.github.io/yosousindo/ "ウェブサイト")からアクセスできます。
+また、PWAに対応しているため、アプリやソフトのようにデバイスへインストールすることができます。
+(全ての端末・ブラウザで使用できるとは限りません)
+
+- デスクトップChromeの場合
+　アドレスバーのインストールボタン または メニュー → 保存と共有 → インストール
+
+- iOSの場合
+　共有 → ホーム画面に追加
+
+- Androidの場合
+　インストールバナー または メニュー → ホーム画面に追加
+
 
 ---
 
@@ -49,10 +61,10 @@
 ## 情報元
 
 - **リアルタイム地震ビューアー（turbowarp版）**  
-  https://turbowarp.org/636244032
+　[リアルタイム地震ビューアー](https://turbowarp.org/636244032 "kotoho制作")
 
 - **P2P地震情報**  
-  https://www.p2pquake.net/develop/json_api_v2/
+  [P2P地震情報](https://www.p2pquake.net/develop/json_api_v2/)
 
 ---
 
@@ -60,13 +72,13 @@
 
 ### 地図
 
-- リアルタイム地震ビューアー（turbowarp版）  
-  https://turbowarp.org/636244032
+- **リアルタイム地震ビューアー（turbowarp版）**  
+　[リアルタイム地震ビューアー](https://turbowarp.org/636244032 "kotoho制作")
 
 ### 効果音
 
 - OtoLogic「ニュース テロップ」  
-  https://otologic.jp/free/se/news-accent01.html
+  [ニューステロップ](https://otologic.jp/free/se/news-accent01.html
 
 ---
 
