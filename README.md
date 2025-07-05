@@ -41,7 +41,7 @@
 
 ## 利用方法
 
-ウェブ公開されているため、[こちら](https://anesewo.github.io/yosousindo/ "ウェブサイト")からアクセスできます。
+ウェブ公開されているため、[こちら](https://anesewo.github.io/yosousindo/ "ウェブサイト")からアクセスすることで使用できます。
 
 
 ---
